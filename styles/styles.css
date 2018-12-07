@@ -1,0 +1,32 @@
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: 500;
+    background-color: #DCEFF6;
+}
+h1 {
+    font-family: 'Bitter', serif;
+}
+a {
+    color: #25333a;
+	font-weight: bold;
+}
+a:hover {
+    color: #409aa9;
+    text-decoration: none;
+}
+img {
+	border-radius: 15px;
+	padding: 10px;
+}
+.btn-primary {
+	color: #fff;
+	background-color: #25333a;
+	border-color: #25333a;
+	font-weight: 100;
+}
+.btn-primary:hover {
+	background-color: #409aa9;
+	border-color: #409aa9;
+}
+
+
